@@ -1,3 +1,7 @@
+# 1.ローカルリポジトリ
+# add-self-introduction-conflict ブランチで README.md ファイルを編集しました。
+
+
 # To practice resolving conflicts with Git and GitHub using pull requests, follow these steps:
 
 ## Preparation
