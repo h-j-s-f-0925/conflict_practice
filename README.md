@@ -1,3 +1,17 @@
+
+
+
+
+
+
+
+# 2 ローカルリポジトリ
+main ブランチで README.md を編集しました。
+
+
+
+
+
 # To practice resolving conflicts with Git and GitHub using pull requests, follow these steps:
 
 ## Preparation
