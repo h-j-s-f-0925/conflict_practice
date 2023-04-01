@@ -1,3 +1,7 @@
+<<<<<<< HEAD
+#コンフリクトを修正しました
+
+=======
 
 
 
@@ -10,6 +14,7 @@ main ブランチで README.md を編集しました。
 
 
 
+>>>>>>> main
 
 
 # To practice resolving conflicts with Git and GitHub using pull requests, follow these steps:
